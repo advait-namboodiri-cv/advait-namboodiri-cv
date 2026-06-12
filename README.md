@@ -19,11 +19,6 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 - studying **CS & Data Science with a minor in Mathematics @ UW–Madison**,
 - into full-stack engineering, neuro-symbolic AI, and F1 analytics
 
-### in the garage right now
-
-> **[flowstate](https://github.com/advait-namboodiri-cv/flowstate)** — a calm home for your deep work. A version-control system for your attention!
-> `TypeScript` `Next.js` `Rust → WASM` `Supabase`
-
 ## 🛞 featured builds
 
 <table>
@@ -46,7 +41,7 @@ I love building. In an age moving this fast, sharpening your skills, and being g
       <p><code>TypeScript</code> <code>Next.js</code> <code>Alpaca API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;🚧</h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;</h3>
       <p>Commit deep-work blocks like code!</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>Supabase</code></p>
     </td>
@@ -72,7 +67,7 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 
 ## 📰 the blog
 
-<!-- BLOG-POST-LIST:START -->- 
+<!-- BLOG-POST-LIST:START -->
 - 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025 
 - 📝 [Velocity](https://www.advaitnamboo.com/blog/2025-11-08-week-5) · Nov 8, 2025 
 - 📝 [Ambiguity](https://www.advaitnamboo.com/blog/2025-10-27-week-4) · Oct 27, 2025 
