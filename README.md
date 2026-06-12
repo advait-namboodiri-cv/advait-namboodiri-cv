@@ -6,21 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFC906&center=true&vCenter=true&width=640&height=44&lines=CS+%26+DS+%40+UW%E2%80%93Madison+%C2%B7+minor+in+Mathematics;Full-stack+at+full+throttle;Box+box+%E2%80%94+new+project+incoming;Making+ideas+come+to+life" alt="Full-stack at full throttle · Making ideas come to life"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=advait-namboodiri-cv&style=for-the-badge&color=1E41FF&label=PIT+VISITS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=advait-namboodiri-cv&style=for-the-badge&color=1E41FF&label=PIT+STOPS" alt="profile views"/>
 
 </div>
 
 <img src="assets/f1-divider.svg" width="100%" alt=""/>
 
-## 🏁 about me
+## About me
 
 I love building. In an age moving this fast, sharpening your skills, and being genuinely passionate about something matters the most. My passion is **making ideas come to life.**
 
-- 🏎️ studying **CS & Data Science with a minor in Mathematics @ UW–Madison**,
-- 📡 into full-stack engineering, data, and F1 analytics
-- ✍️ I write at [advaitnamboo.com](https://advaitnamboo.com)
+- studying **CS & Data Science with a minor in Mathematics @ UW–Madison**,
+- into full-stack engineering, neuro-symbolic AI, and F1 analytics
 
-### 🚧 in the garage right now
+### in the garage right now
 
 > **[flowstate](https://github.com/advait-namboodiri-cv/flowstate)** — a calm home for your deep work. A version-control system for your attention!
 > `TypeScript` `Next.js` `Rust → WASM` `Supabase`
@@ -30,24 +29,24 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏎️ <a href="https://github.com/advait-namboodiri-cv/f1-silly-season">f1-silly-season</a></h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/f1-silly-season">f1-silly-season</a></h3>
       <p>F1 Silly-Season Tracker: live driver-market seat probabilities from weighted multi-source signals.</p>
       <p><code>TypeScript</code> <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/advait-namboodiri-cv/Racinator">Racinator</a></h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/Racinator">Racinator</a></h3>
       <p>Interactive F1 analytics platform - tracks, telemetry, and race strategy</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Python</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/advait-namboodiri-cv/stock-portfolio">Ticker Desk</a></h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/stock-portfolio">Ticker Desk</a></h3>
       <p>Philosophy-driven paper trading</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Alpaca API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;🚧</h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;🚧</h3>
       <p>Commit deep-work blocks like code!</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>Supabase</code></p>
     </td>
@@ -64,7 +63,7 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait-namboodiri-cv&layout=compact&langs_count=8&bg_color=0B1B3F&title_color=FFC906&text_color=E6EAF5&border_color=1E41FF&hide_border=false" alt="top languages"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=advait-namboodiri-cv&background=0B1B3F&border=1E41FF&ring=FFC906&fire=E30118&currStreakNum=FFFFFF&currStreakLabel=FFC906&sideNums=FFC906&sideLabels=E6EAF5&dates=8A93A8" alt="contribution streak"/>
+
 </div>
 
 <div align="center">
@@ -73,7 +72,8 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 
 ## 📰 the blog
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025 
+<!-- BLOG-POST-LIST:START -->- 
+- 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025 
 - 📝 [Velocity](https://www.advaitnamboo.com/blog/2025-11-08-week-5) · Nov 8, 2025 
 - 📝 [Ambiguity](https://www.advaitnamboo.com/blog/2025-10-27-week-4) · Oct 27, 2025 
 - 📝 [Complexity](https://www.advaitnamboo.com/blog/2025-10-20-week-3) · Oct 20, 2025 
