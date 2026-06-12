@@ -14,10 +14,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://advaitnamboo.com/rss.xml"
-          max_post_count: 5
-          template: "- 📝 [$title]($url) · $date $newline"
-          date_format: "mmm d, yyyy"
-          commit_message: "chore: update blog posts"
+      - name: build blog list
+        run: |
+          python3 - <<'EOF'
+          import re, urllib.request, xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+
+          xml = urllib.request.urlopen("https://advaitnamboo.com/rss.xml", timeout=30).read()
+          items = ET.fromstring(xml).findall("./channel/item")
+          posts = []
+          for it in items:
+              title = (it.findtext("title") or "").strip()
+              link = (it.findtext("link") or "").strip()
+              date = parsedate_to_datetime(it.findtext("pubDate"))
+              posts.append((date, title, link))
+          posts.sort(key=lambda p: p[0], reverse=True)
+
+          lines = [f"- 📝 [{t}]({l}) · {d.strftime('%b')} {d.day}, {d.year}" for d, t, l in posts[:5]]
+          block = "<!-- BLOG-POST-LIST:START -->\n" + "\n".join(lines) + "\n<!-- BLOG-POST-LIST:END -->"
+
+          readme = open("README.md", encoding="utf-8").read()
+          updated = re.sub(r"<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->", block, readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8", newline="").write(updated)
+          EOF
+
+      - name: commit via api (verified)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet README.md; then
+            echo "blog list already up to date"
+            exit 0
+          fi
+          gh api "repos/${{ github.repository }}/contents/README.md" \
+            -X PUT \
+            -f message="chore: update blog posts" \
+            -f content="$(base64 -w0 README.md)" \
+            -f sha="$(git rev-parse HEAD:README.md)" \
+            -f branch="${{ github.ref_name }}"
