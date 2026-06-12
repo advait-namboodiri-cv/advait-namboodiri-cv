@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1B3F,50:1E41FF,100:0B1B3F&text=Advait%20Namboodiri&fontColor=FFC906&fontSize=44&fontAlignY=32&animation=fadeIn&desc=builder%20%C2%B7%20madison%2C%20wi&descColor=E6EAF5&descSize=16&descAlignY=52" width="100%" alt="Advait Namboodiri"/>
 
 <a href="https://advaitnamboo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFC906&center=true&vCenter=true&width=640&height=44&lines=CS+%26+DS+%40+UW%E2%80%93Madison+%C2%B7+minor+in+Mathematics;Full-stack+at+full+throttle;Box+box+%E2%80%94+new+project+incoming;Making+ideas+come+to+life" alt="CS & DS @ UW–Madison · Full-stack at full throttle · Making ideas come to life"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FFC906&center=true&vCenter=true&width=640&height=44&lines=CS+%26+DS+%40+UW%E2%80%93Madison+%C2%B7+minor+in+Mathematics;Full-stack+at+full+throttle;Box+box+%E2%80%94+new+project+incoming;Making+ideas+come+to+life" alt="Full-stack at full throttle · Making ideas come to life"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=advait-namboodiri-cv&style=for-the-badge&color=1E41FF&label=PIT+VISITS" alt="profile views"/>
@@ -14,15 +14,15 @@
 
 ## 🏁 about me
 
-I love building. In an age moving this fast, sharpening your skills — and being genuinely passionate about something — matters more than ever. My passion is **making ideas come to life.**
+I love building. In an age moving this fast, sharpening your skills, and being genuinely passionate about something matters the most. My passion is **making ideas come to life.**
 
-- 🏎️ studying **CS & Data Science @ UW–Madison**, minor in Mathematics
+- 🏎️ studying **CS & Data Science with a minor in Mathematics @ UW–Madison**,
 - 📡 into full-stack engineering, data, and F1 analytics
 - ✍️ I write at [advaitnamboo.com](https://advaitnamboo.com)
 
 ### 🚧 in the garage right now
 
-> **[flowstate](https://github.com/advait-namboodiri-cv/flowstate)** — a calm home for your deep work. A version-control system for your attention: commit focus blocks like code, watch a year of green squares grow.
+> **[flowstate](https://github.com/advait-namboodiri-cv/flowstate)** — a calm home for your deep work. A version-control system for your attention!
 > `TypeScript` `Next.js` `Rust → WASM` `Supabase`
 
 ## 🛞 featured builds
@@ -31,24 +31,24 @@ I love building. In an age moving this fast, sharpening your skills — and bein
   <tr>
     <td width="50%" valign="top">
       <h3>🏎️ <a href="https://github.com/advait-namboodiri-cv/f1-silly-season">f1-silly-season</a></h3>
-      <p>F1 Silly-Season Tracker — live driver-market seat probabilities from weighted multi-source signals.</p>
+      <p>F1 Silly-Season Tracker: live driver-market seat probabilities from weighted multi-source signals.</p>
       <p><code>TypeScript</code> <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/advait-namboodiri-cv/Racinator">Racinator</a></h3>
-      <p>Interactive F1 analytics platform — tracks, telemetry, and race strategy, powered by the OpenF1 API.</p>
+      <p>Interactive F1 analytics platform - tracks, telemetry, and race strategy</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Python</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/advait-namboodiri-cv/stock-portfolio">Ticker Desk</a></h3>
-      <p>Philosophy-driven paper trading — an agent may only propose trades the ruleset justifies, and every proposal cites its rules.</p>
+      <p>Philosophy-driven paper trading</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Alpaca API</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;🚧</h3>
-      <p>Version control for your attention — commit deep-work blocks like code, with a Rust→WASM stats engine.</p>
+      <p>Commit deep-work blocks like code!</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>Supabase</code></p>
     </td>
   </tr>
@@ -71,13 +71,7 @@ I love building. In an age moving this fast, sharpening your skills — and bein
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=advait-namboodiri-cv&bg_color=0B1B3F&color=E6EAF5&line=FFC906&point=E30118&area=true&area_color=1E41FF&hide_border=false&border_color=1E41FF&radius=8" width="100%" alt="contribution activity graph"/>
 </div>
 
-## 🐍 the snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/advait-namboodiri-cv/advait-namboodiri-cv/output/snake.svg" alt="contribution snake"/>
-</div>
-
-## 📰 fresh off the blog
+## 📰 the blog
 
 <!-- BLOG-POST-LIST:START -->- 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025 
 - 📝 [Velocity](https://www.advaitnamboo.com/blog/2025-11-08-week-5) · Nov 8, 2025 
@@ -99,7 +93,3 @@ I love building. In an age moving this fast, sharpening your skills — and bein
 <a href="mailto:advaitsdesk@gmail.com"><img src="https://img.shields.io/badge/Email-advaitsdesk%40gmail.com-E30118?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1B3F" alt="email"/></a>
 
 </div>
-
-<img src="assets/f1-divider.svg" width="100%" alt=""/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1B3F,50:1E41FF,100:0B1B3F&section=footer" width="100%" alt=""/>
