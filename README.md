@@ -68,11 +68,11 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 ## 📰 the blog
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025 
-- 📝 [Velocity](https://www.advaitnamboo.com/blog/2025-11-08-week-5) · Nov 8, 2025 
-- 📝 [Ambiguity](https://www.advaitnamboo.com/blog/2025-10-27-week-4) · Oct 27, 2025 
-- 📝 [Complexity](https://www.advaitnamboo.com/blog/2025-10-20-week-3) · Oct 20, 2025 
-- 📝 [Uncertainty](https://www.advaitnamboo.com/blog/2025-10-12-week-2) · Oct 12, 2025 
+- 📝 [Clarity](https://www.advaitnamboo.com/blog/2025-11-18-week-6) · Nov 18, 2025
+- 📝 [Velocity](https://www.advaitnamboo.com/blog/2025-11-08-week-5) · Nov 8, 2025
+- 📝 [Ambiguity](https://www.advaitnamboo.com/blog/2025-10-27-week-4) · Oct 27, 2025
+- 📝 [Complexity](https://www.advaitnamboo.com/blog/2025-10-20-week-3) · Oct 20, 2025
+- 📝 [Uncertainty](https://www.advaitnamboo.com/blog/2025-10-12-week-2) · Oct 12, 2025
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ more at [advaitnamboo.com/blog](https://advaitnamboo.com/blog)
