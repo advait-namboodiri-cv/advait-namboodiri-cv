@@ -41,7 +41,7 @@ I love building. In an age moving this fast, sharpening your skills, and being g
       <p><code>TypeScript</code> <code>Next.js</code> <code>Alpaca API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/advait-namboodiri-cv/flowstate">flowstate</a> &nbsp;</h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/deepwell">deepwell</a> &nbsp;</h3>
       <p>Commit deep-work blocks like code!</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>Supabase</code></p>
     </td>
