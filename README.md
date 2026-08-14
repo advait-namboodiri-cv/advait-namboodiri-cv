@@ -61,10 +61,6 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advait-namboodiri-cv&bg_color=0B1B3F&color=E6EAF5&line=FFC906&point=E30118&area=true&area_color=1E41FF&hide_border=false&border_color=1E41FF&radius=8" width="100%" alt="contribution activity graph"/>
-</div>
-
 ## 📰 the blog
 
 <!-- BLOG-POST-LIST:START -->
