@@ -26,3 +26,20 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           output_action: commit
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: update summer badge
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          TOTAL=$(gh api graphql -f query='query { user(login: "advait-namboodiri-cv") { contributionsCollection(from: "2026-05-01T00:00:00Z") { contributionCalendar { totalContributions } } } }' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          printf '{"schemaVersion":1,"label":"summer contributions","message":"%s","color":"FFC906","labelColor":"0B1B3F"}\n' "$TOTAL" > summer.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add summer.json
+          git commit -m "chore: update summer badge" || exit 0
+          git pull --rebase origin main
+          git push
