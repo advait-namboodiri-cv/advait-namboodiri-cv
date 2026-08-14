@@ -19,12 +19,9 @@ jobs:
           template: classic
           config_timezone: America/Chicago
           filename: metrics.svg
-          base: header
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
           output_action: commit
 
       - uses: actions/checkout@v4
@@ -37,9 +34,12 @@ jobs:
         run: |
           TOTAL=$(gh api graphql -f query='query { user(login: "advait-namboodiri-cv") { contributionsCollection(from: "2026-05-01T00:00:00Z") { contributionCalendar { totalContributions } } } }' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
           printf '{"schemaVersion":1,"label":"summer contributions","message":"%s","color":"FFC906","labelColor":"0B1B3F"}\n' "$TOTAL" > summer.json
+          YEAR=$(date +%Y)
+          YTOTAL=$(gh api graphql -f query="query { user(login: \"advait-namboodiri-cv\") { contributionsCollection(from: \"${YEAR}-01-01T00:00:00Z\") { contributionCalendar { totalContributions } } } }" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          printf '{"schemaVersion":1,"label":"%s contributions","message":"%s","color":"1E41FF","labelColor":"0B1B3F"}\n' "$YEAR" "$YTOTAL" > year.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add summer.json
+          git add summer.json year.json
           git commit -m "chore: update summer badge" || exit 0
           git pull --rebase origin main
           git push
