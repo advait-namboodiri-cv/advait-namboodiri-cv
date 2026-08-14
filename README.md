@@ -58,9 +58,15 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 ## 📊 telemetry
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait-namboodiri-cv&layout=compact&langs_count=8&bg_color=0B1B3F&title_color=FFC906&text_color=E6EAF5&border_color=1E41FF&hide_border=false" alt="top languages"/>
-
+  <img src="https://streak-stats.demolab.com?user=advait-namboodiri-cv&background=0B1B3F&border=1E41FF&stroke=1E41FF&ring=FFC906&fire=E30118&currStreakNum=E6EAF5&sideNums=E6EAF5&currStreakLabel=FFC906&sideLabels=E6EAF5&dates=8A93B5&hide_border=false&border_radius=8" alt="contribution streak"/>
 </div>
+
+<!-- METRICS:START — uncomment once the metrics workflow has generated metrics.svg
+<div align="center">
+  <img src="metrics.svg" width="100%" alt="github metrics — recent activity, languages, habits"/>
+</div>
+METRICS:END -->
+
 
 ## 📰 the blog
 
