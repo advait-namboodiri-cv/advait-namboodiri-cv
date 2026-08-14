@@ -41,9 +41,10 @@ I love building. In an age moving this fast, sharpening your skills, and being g
       <p><code>TypeScript</code> <code>Next.js</code> <code>Alpaca API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/advait-namboodiri-cv/deepwell">deepwell</a> &nbsp;</h3>
+      <h3><a href="https://github.com/advait-namboodiri-cv/deepwell">deepwell</a></h3>
       <p>Commit deep-work blocks like code!</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>Supabase</code></p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>Rust</code> <code>SwiftUI</code> <code>Supabase</code></p>
+      <a href="https://apps.apple.com/app/id6782529013"><img src="https://img.shields.io/badge/App%20Store-download-FFC906?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B1B3F" alt="deepwell on the App Store"/></a>
     </td>
   </tr>
 </table>
