@@ -85,3 +85,5 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 <a href="mailto:advaitsdesk@gmail.com"><img src="https://img.shields.io/badge/Email-advaitsdesk%40gmail.com-E30118?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1B3F" alt="email"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1B3F,50:1E41FF,100:0B1B3F&section=footer" width="100%" alt=""/>
