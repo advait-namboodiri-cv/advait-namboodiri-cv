@@ -61,11 +61,9 @@ I love building. In an age moving this fast, sharpening your skills, and being g
   <img src="https://streak-stats.demolab.com?user=advait-namboodiri-cv&starting_date=2026-05-01&background=0B1B3F&border=1E41FF&stroke=1E41FF&ring=FFC906&fire=E30118&currStreakNum=E6EAF5&sideNums=E6EAF5&currStreakLabel=FFC906&sideLabels=E6EAF5&dates=8A93B5&hide_border=false&border_radius=8" alt="contribution streak since may 2026"/>
 </div>
 
-<!-- METRICS:START — uncomment once the metrics workflow has generated metrics.svg
 <div align="center">
-  <img src="metrics.svg" width="100%" alt="github metrics — recent activity, languages, habits"/>
+  <img src="metrics.svg" width="100%" alt="github metrics — recent activity, languages, streaks"/>
 </div>
-METRICS:END -->
 
 
 ## 📰 the blog
