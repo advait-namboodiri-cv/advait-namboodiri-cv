@@ -58,9 +58,9 @@ I love building. In an age moving this fast, sharpening your skills, and being g
 ## 📊 telemetry
 
 <div align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadvait-namboodiri-cv%2Fadvait-namboodiri-cv%2Fmain%2Fyear.json&style=for-the-badge&logo=github&logoColor=white" alt="contributions this year"/>
+  &nbsp;
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadvait-namboodiri-cv%2Fadvait-namboodiri-cv%2Fmain%2Fsummer.json&style=for-the-badge&logo=github&logoColor=white" alt="contributions since may 2026"/>
-
-  <img src="https://streak-stats.demolab.com?user=advait-namboodiri-cv&background=0B1B3F&border=1E41FF&stroke=1E41FF&ring=FFC906&fire=E30118&currStreakNum=E6EAF5&sideNums=E6EAF5&currStreakLabel=FFC906&sideLabels=E6EAF5&dates=8A93B5&hide_border=false&border_radius=8" alt="contribution streak"/>
 </div>
 
 <div align="center">
